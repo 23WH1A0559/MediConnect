@@ -4,7 +4,7 @@ Doctor Appointment booking system
 
 ### **1.1 Purpose**
 
-This document defines the complete **software requirements, system architecture, database design, and technical specifications** for **MedConnect**, a web-based Doctor Appointment Booking System.
+This document defines the complete **software requirements, system architecture, database design, and technical specifications** for **MediConnect**, a web-based Doctor Appointment Booking System.
 
 The system enables **patients to book appointments online**, **doctors to manage schedules**, and **administrators to control the platform efficiently**.
 The application is designed as a **full-stack web application** using **MongoDB as the database**.
@@ -293,10 +293,10 @@ src/
 
 ## **11. Conclusion**
 
-MedConnect provides a **secure, scalable, and user-friendly platform** for managing doctor appointments online.
+MediConnect provides a **secure, scalable, and user-friendly platform** for managing doctor appointments online.
 The system demonstrates **real-world full-stack development**, effective use of **MongoDB**, and role-based access control.
 ---
-### 📌 **Project Name:** MedConnect
+### 📌 **Project Name:** MediConnect
 
 ### 📌 **Document Type:** SRS & Technical Documentation
 
